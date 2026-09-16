@@ -4,6 +4,8 @@ Code and data for a unified component analysis of best-fit and related
 constructive heuristics for two-dimensional strip packing. Citation
 information will be added once the associated publication is available.
 
+Archived at <https://doi.org/10.5281/zenodo.22792108>.
+
 ## What this repository contains
 
 - Unified, zero-dependency Python reimplementations of fifteen best-fit and
