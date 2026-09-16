@@ -1,0 +1,9 @@
+paper,venue,benchmark_scope,outcome,evidence
+"BF (Burke, Kendall & Whitwell 2004)",Oper. Res. 52(4):655-671,C7P1-P3 vs Tables 3/5,all exact after the SN-clarification fix (commit de59705),TWBF 复现状态 / burke_bf
+BBF (Asik & Ozcan 2009),Ann. Oper. Res. 172:405-427,M1 + N1-N13 + C1-C7 (35 instances),"20 exact, 8 better (1-3), 7 worse (1-2); M1 walkthrough step-exact",BBF 复现状态
+TCBF/WPBF (Yehia et al. 2024),EIJEST 47:92-100,N1-N13 + C1-C7 (34 instances),"negative result: base BFA(LM) 33/34 exact, mechanisms 9/34 and 7/34; max-area harm re-confirmed at component level (stage-1 t=-11.9)",IBF 复现状态
+TWBF (Verstichel et al. 2013),ITOR 20(5):711-730,N1-N13 + C1-C7 (34 instances),"24 exact, 4 better (1-4), 6 worse (1-2)",TWBF 复现状态
+SH (Wei et al. 2011),EJOR 215(2):337-346,C1-C7 + N1-N13 vs Table 2,"semantics double-verified (3000 random tests vs naive reference); IDBS 16/21 optimal @60s, 17/21 @300s (compute-limited, Python)",SKY 复现状态
+ISH (Wei et al. 2017),Comput. Oper. Res. 80:113-127,C1-C7 + N1-N13 vs Tables 5/6 best.gap,29 exact + 1 rounding; 4 worse (+1.1 to +3.3),ISH 复现状态
+Level family (Ortmann et al. 2010),EJOR 203(2):306-315,C1-C7 + T1-T7 + N1-N7 category gaps,"FFDH 17/21 categories exact (C5-C7 +8 to +13, unresolved); SC/SCR best-fitting; SASm weakest",LVL 复现状态
+FH (Leung & Zhang 2011),ESWA 38(10):13032-13042,C1-C7 + N1-N13 (34 instances),"25 exact, 8 within +/-2 (incl. BKW13=960 exact)",FH 复现状态

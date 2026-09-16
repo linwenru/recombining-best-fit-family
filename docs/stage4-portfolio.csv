@@ -1,0 +1,13 @@
+k,mean_gap_pct,added_config
+1,6.9474,perimeter/fitness-number/SN+twT+vnF
+2,5.5692,area/widest-fit/MaxD+twT+vnF
+3,5.0122,area/fitness-number/LM+twT+vnF
+4,4.6748,perimeter/tre/TN+twT+vnT
+5,4.4521,diagonal/fitness-number/LM+twT+vnT
+6,4.3102,maxside/fitness-number/MinD+twT+vnT
+7,4.1916,maxside/widest-fit/MinD+twT+vnT
+8,4.0801,perimeter/nre/MinD+twT+vnT
+9,3.9967,perimeter/tre/RM+twT+vnF
+10,3.9246,perimeter/first-fit/TN+twT+vnF
+11,3.8573,area/nre/MinD+twT+vnT
+12,3.8044,perimeter/nre/LM+twT+vnF

@@ -1,0 +1,6 @@
+source,rows,violations,first_violations
+stage1/2 factorial arms,89856,0,
+prospective arms,21720,0,
+"stage3-rls-runs.csv (cch/shell.py, per-row validate_solution)",,0,
+"stage3-baselines.csv (cch/baselines.py, per-row validate_solution)",,0,
+"stage4-zdf-runs.csv (cch/robustness.py, per-row validate_solution)",,0,
