@@ -1,0 +1,29 @@
+{
+  "title": "Code and data for a unified component analysis of the best-fit strip-packing family",
+  "description": "Zero-dependency Python reimplementations of fifteen best-fit and related constructive heuristics for two-dimensional strip packing, the configurable CCH engine, all experiment runners, benchmark instances, per-cell raw results (CSV), and the 120-instance prospective suite.",
+  "creators": [
+    {
+      "name": "Lin, Wenru",
+      "affiliation": "University of Science and Technology of China; Minjiang University",
+      "orcid": "0000-0002-4416-2971"
+    },
+    {
+      "name": "Yang, Zhouwang",
+      "affiliation": "University of Science and Technology of China",
+      "orcid": "0000-0002-9454-9146"
+    },
+    {
+      "name": "Liu, Lei",
+      "affiliation": "Minjiang University",
+      "orcid": "0000-0002-6180-1341"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "strip packing",
+    "best-fit",
+    "constructive heuristics",
+    "component analysis",
+    "reproducibility"
+  ]
+}
